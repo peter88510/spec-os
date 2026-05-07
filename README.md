@@ -88,6 +88,7 @@ spec-os/
 ├── README.md
 ├── specs/
 │   ├── docspec/
+│   ├── devspec/
 │   ├── promptspec/
 │   ├── codespec/
 │   ├── projectspec/
